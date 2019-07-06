@@ -1,0 +1,36 @@
+.jumbotron {
+    background-image: url("https://www.scenicrailbritain.com/sites/default/files/styles/hero_image/public/slides/Green%20Cl150s%20050616%20med.jpg");
+    background-size: cover;
+    color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+    border-radius: 15px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+.lead {
+    text-align: center;
+    color: white;
+}
+
+body {
+    background-color: #21304a;
+}
+
+.panel {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+    border-radius: 15px;
+}
+
+.panel-default>.panel-heading{
+	border-style: solid;
+	border-width: 1px;
+    border-radius: 15px 15px 0px 0px;
+}
