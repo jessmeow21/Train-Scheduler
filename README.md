@@ -4,7 +4,7 @@
 ##About:
 This web application lets users enter their information on any train and returns information on the next timed arrival and the frequency of the train. 
 
-Using:
+Using languages, libraries, frameworks, database :
 *HTML
 *CSS
 *Bootstrap
@@ -15,4 +15,4 @@ Using:
 
 ##Links
 * [GitHub io](https://jessmeow21.github.io/Train-Scheduler/trainSchedule.html/)
-* [GitHubRepository](https://firebase.google.com/docs/)
+* [GitHubRepository](https://github.com/jessmeow21/Train-Scheduler)
