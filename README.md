@@ -15,5 +15,5 @@ Using languages, libraries, frameworks, database :
 *Moment.js
 
 ##Links
-* [GitHub io](https://jessmeow21.github.io/Train-Scheduler/trainSchedule.html/)
+* [GitHub io](https://jessmeow21.github.io/Train-Scheduler/index.html/)
 * [GitHubRepository](https://github.com/jessmeow21/Train-Scheduler)
