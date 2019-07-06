@@ -3,8 +3,9 @@
 
 ##About:
 This web application lets users enter their information on any train and returns information on the next timed arrival and the frequency of the train. 
-
+_______________________________________________________________________
 Using languages, libraries, frameworks, database :
+
 *HTML
 *CSS
 *Bootstrap
