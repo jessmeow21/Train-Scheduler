@@ -25,18 +25,18 @@ var currentTime = moment().format();
 //When the submit button is clicked, we will run the snapshot function below.
 $("#add-train").on("click", function() {
       // Prevent the page from refreshing
-      event.preventDefault();
+    event.preventDefault();
 
       // Grabs user input
-	  var trainNameForm = $("#trainNameForm").val().trim();
-	  var destinationForm = $("#destinationForm").val().trim();
-	  var trainTimeForm = moment($("#trainTimeForm").val().trim(), "HH:mm").format("HH:mm");
+	var trainNameForm = $("#trainNameForm").val().trim();
+	var destinationForm = $("#destinationForm").val().trim();
+	var trainTimeForm = moment($("#trainTimeForm").val().trim(), "HH:mm").format("HH:mm");
 
 //	  var frequencyForm = moment($("#frequencyForm").val().trim().format("mm"));
-	  var frequencyForm = $("#frequencyForm").val().trim();
+	var frequencyForm = $("#frequencyForm").val().trim();
 
 	  // Creates local "temporary" object for holding inputs
-	  var newTrain = {
+	var newTrain = {
 		train: trainNameForm,
 		destination: destinationForm,
 		first: trainTimeForm,
