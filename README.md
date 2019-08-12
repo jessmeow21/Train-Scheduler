@@ -24,6 +24,6 @@ This web application lets users enter their information on any train and returns
 <br />
 1. Moment.js
 
-##Links
+## Links
 * [GitHub io](https://jessmeow21.github.io/Train-Scheduler/index.html/)
 * [GitHubRepository](https://github.com/jessmeow21/Train-Scheduler)
