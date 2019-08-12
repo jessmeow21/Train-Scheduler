@@ -5,22 +5,22 @@ This web application lets users enter their information on any train and returns
 ---
 ***Technologies Used***
 
-**Languages**
+**Languages:**
 <br />
 1). HTML
 2). CSS
 3). JavaScript
 4). jQuery
 
-**Style Sheets**
+**Style Sheets:**
 <br />
 1). Boostrap CSS<br />
 
-**Databases**
+**Databases:**
 <br />
 1). Firebase
 
-**JS Libraries**
+**JS Libraries:**
 <br />
 1). Moment.js
 
