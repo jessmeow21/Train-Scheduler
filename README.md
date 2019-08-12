@@ -7,22 +7,22 @@ This web application lets users enter their information on any train and returns
 
 **Languages:**
 <br />
-1). HTML
-2). CSS
-3). JavaScript
-4). jQuery
+1. HTML
+2. CSS
+3. JavaScript
+4. jQuery
 
 **Style Sheets:**
 <br />
-1). Boostrap CSS<br />
+1. Boostrap CSS<br />
 
 **Databases:**
 <br />
-1). Firebase
+1. Firebase
 
 **JS Libraries:**
 <br />
-1). Moment.js
+1. Moment.js
 
 ##Links
 * [GitHub io](https://jessmeow21.github.io/Train-Scheduler/index.html/)
