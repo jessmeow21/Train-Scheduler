@@ -16,8 +16,6 @@ On the form under Add Train, add the information on a train of your choice. Afte
 
 ## App Features
 This app is using Firebase to keep and store data. The data is retrieved and manipulated with Moment.js. 
-## Developer Notes
-
 
 ## Before and After
 ![](before.png)
